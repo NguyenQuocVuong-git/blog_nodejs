@@ -29,6 +29,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.3.4",
     "mongoose": "^6.0.12",
+    "mongoose-delete": "^0.5.4",
     "prettier": "^2.4.1",
     "utf8": "^3.0.0",
     "whatwg-url": "^9.0.0"
